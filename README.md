@@ -1,2 +1,2 @@
 # Python
-These are incomplete codes in python
+These are ongoing or incomplete codes in python
